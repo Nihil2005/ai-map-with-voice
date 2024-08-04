@@ -1,0 +1,4 @@
+#map {
+  height: 100vh; /* Ensure full viewport height */
+  width: 100%;   /* Ensure full width */
+}
